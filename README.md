@@ -10,7 +10,7 @@ npm install -g openshift-auth-proxy
 Usage: openshift-auth-proxy [options]
 
 Options:
-  --listen-port              Port to listen on                                                           [default: 3000]
+  --listen-port              Port to listen on                                                           [default: 8080]
   --server-cert              Certificate file to use to listen for TLS                   [default: "secret/server-cert"]
   --server-key               Key file to use to listen for TLS                            [default: "secret/server-key"]
   --server-tlsopts-file      File containing JSON for proxy TLS options              [default: "secret/server-tls.json"]

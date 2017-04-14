@@ -1,7 +1,7 @@
 {
-  "name": "openshift-auth-proxy",
-  "version": "0.0.22",
-  "description": "Reverse proxy to authorize requests against OpenShift 3",
+  "name": "ausnimbus-auth-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy to authorize requests",
   "main": "openshift-auth-proxy.js",
   "bin": "./openshift-auth-proxy.js",
   "scripts": {
